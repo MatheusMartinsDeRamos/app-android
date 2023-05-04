@@ -23,3 +23,5 @@ Para teste você pode instalar o apk e criar seu próprio usuário e depois loga
 Qualquer dúvia entrar em contato com matheusramos@lasale.com
 
 APK e CHAVE: Diretório onde se encontra o APK
+
+O prototipo da tela de login pode ser acessado também no figma: https://www.figma.com/proto/s1e1UhRlKc0Ulv8jzsKgbb/Tela-Cadastro-Android?type=design&node-id=1-3&scaling=scale-down&page-id=0%3A1
